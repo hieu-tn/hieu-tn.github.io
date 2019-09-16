@@ -1,1 +1,21 @@
-I moved my home to <a href="https://hieu-tn.gitlab.io">https://hieu-tn.gitlab.io</a>
+<html>
+<head>
+</head>
+<body>
+
+<p>I moved my home to <a href="https://hieu-tn.netlify.com">https://hieu-tn.netlify.com</a>. You will be redirected in <span id="countdown"></span></p>
+
+<script>
+  var timeleft = 5;
+  var downloadTimer = setInterval(function(){
+    document.getElementById("countdown").innerHTML = timeleft + " seconds";
+    timeleft -= 1;
+    if(timeleft <= 0){
+      clearInterval(downloadTimer);
+      window.location.href = "https://hieu-tn.netlify.com"
+    }
+  }, 1000);
+</script>
+
+</body>
+</html>
