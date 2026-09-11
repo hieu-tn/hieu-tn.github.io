@@ -4,6 +4,7 @@
 - **Backend:** Python, PHP, NodeJS, Django, WordPress, Laravel, WooCommerce, Wagtail, ExpressJS
 - **Relational Databases:** MySQL, PostgreSQL
 - **DevOps / CI/CD:** Git, Docker, AWS, aws-cdk, Jenkins
+- **AI-Assisted Development:** Hands-on use of AI coding tools (Gemini, Claude Code) for writing, testing, and reviewing code
 
 ---
 
@@ -11,8 +12,6 @@
 
 ## Danihel Group — Alberta, Canada
 **Full Stack Developer** | Dec 2023 – Aug 2026
-
-Improved the Risk and Disputes Management System through UI/UX enhancements and bug resolution.
 
 - Improved mobile data sync reliability and technician experience for ~1,650 active technicians, measured by a noticeable drop in stale-data and manual-refresh complaints, by implementing pull-to-refresh across 9 core views using CustomScrollView, Slivers, RefreshIndicator, and NotificationListener.
 - Modernized client-server communication supporting ~43,000 active orders, by migrating the mobile app's API integration to a NestJS backend and optimizing background geolocation sync frequency.
