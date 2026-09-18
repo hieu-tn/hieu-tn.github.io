@@ -28,6 +28,16 @@
 
 ---
 
+## Chargebacks911 — Florida, USA
+**Software Engineer** | Mar 2022 – Nov 2023
+
+- Kept a bot-emulation platform monitoring 167 sites running reliably at scale, processing ~4,796 uploads, ~1.25M downloads, and ~3,200+ screenshots daily, by maintaining and optimizing the pipeline in Python and Selenium.
+- Cut monitoring dashboard load time from 12 seconds to 3 seconds on multi-million-record tables, by building a real-time job-tracking dashboard for the audit team and optimizing SQL queries with indexing and refined WHERE clauses (PHP, Laravel, jQuery, MySQL).
+- Connected a new risk/dispute-management platform to 28 third-party services, by designing and building its authorization and integration layer in PHP and Laravel.
+- Extended that platform's reach across marketplaces, by building and integrating 13 apps, plugins, and extensions tied into the SaaS alert system.
+
+---
+
 ## Cynopsis Solutions — Singapore
 **Full-stack Developer** | Sep 2020 – Mar 2022
 
